@@ -1,0 +1,20 @@
+h1{
+    color:aquamarine;
+    background-color:black;
+    border: 1px;
+
+}
+p{
+    color: blueviolet;
+    background-color: yellow;
+    border-color: red;
+    border: 1px solid purple;
+    padding: 1;
+    margin: 4ch;
+}
+a{
+    columns: 2px;
+color: blue;
+background-color: brown;
+
+}
